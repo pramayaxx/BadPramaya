@@ -65,8 +65,8 @@ ___
 	  
 ### 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
-<a href="https://telegram.me/" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="mrSHAGGY" height="30" width="30" /></a>
-<a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_shaggy_boy1" height="30" width="40" /></a>
+<a href="https://telegram.me/" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="BadPramaya" height="30" width="30" /></a>
+<a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="BadPramaya" height="30" width="40" /></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiZakiXD&hide=css,html&theme=tokyonight)
