@@ -9,7 +9,16 @@ MR.PRAMAYA/MR.PRAMAYA is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
- 
+
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=BadPramaya&show_icons=true&theme=radical) 
+44
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BadPramaya&theme=radical)](https://git.io/streak-stats) 
+45
+[![trophy](https://github-profile-trophy.vercel.app/?username=BadPramaya)](https://github.com/ryo-ma/github-profile-trophy)
+46
+​
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
 </p>
 
@@ -61,6 +70,32 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiZakiXD&hide=css,html&theme=tokyonight)
 
+<a href="https://www.arduino.cc"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
+27
+<a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+28
+<a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
+29
+<a href="https://www.gnu.org/software/bash"><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></a>
+30
+<a href="https://www.docker.com"><img src="https://img.icons8.com/fluency/50/000000/docker.png"/></a>
+31
+<a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
+32
+<a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
+33
+<a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+34
+<a href="https://www.linux.org"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
+35
+<a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+36
+<a href="https://www.postgresql.org"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+37
+<a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+38
+<a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+39
 
 
 
@@ -74,6 +109,6 @@ ___
 
   
 
-  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+  If Reply.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
 
 
