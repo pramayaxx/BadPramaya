@@ -16,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 ## <div align="center">Information </div>
 
+
+	### 🛠️ Languages and tools
+
 <div align="center">
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
