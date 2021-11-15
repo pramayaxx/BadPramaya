@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## <div align="center">Information </div>
 
 
-	### 🛠️ Languages and tools
+### 🛠️ Languages and tools
 
 <div align="center">
 
