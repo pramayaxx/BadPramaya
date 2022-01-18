@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/BadPramaya">
         <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome+To+BadPramaya+Mod+Profile."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome+To+BadPramaya+Profile."
             alt="Typing SVG"
         />
     </a>
@@ -19,7 +19,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BadPramaya">HYPER-MOD</a> to make it public
+Project created by <a href="https://github.com/BadPramaya">BadPramaya</a> to make it public
     <br>
        | © |
         Reserved |
