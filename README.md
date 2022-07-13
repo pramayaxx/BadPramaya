@@ -15,7 +15,7 @@
 <a href="#"><img title="BadPramaya" src="https://img.shields.io/badge/Bad%20Pramaya-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="wa.me/94770611075"><img title="Author" src="https://img.shields.io/badge/Author-BadPramaya/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/94770611075"><img title="Author" src="https://img.shields.io/badge/Author-BadPramaya/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
