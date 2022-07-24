@@ -40,20 +40,7 @@ Project created by <a href="https://github.com/BadPramaya">BadPramaya</a> to mak
 ![My card name](https://cardivo.vercel.app/api?name=_©️x_ᴘʀᴀᴍᴀʏᴀ_x🥀_&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatarfiles.alphacoders.com/108/thumb-108886.gif?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=x_pramaya_x&github=BadPramaya&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <!---
-MR.PRAMAYA/BadPramaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center">
-
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=BadPramaya&show_icons=true&theme=radical) 
-44
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BadPramaya&theme=radical)](https://git.io/streak-stats) 
-45
-[![trophy](https://github-profile-trophy.vercel.app/?username=BadPramaya)](https://github.com/ryo-ma/github-profile-trophy)
-46
 ​
-
-
 
 ## <div align="center">Information </div>
 
