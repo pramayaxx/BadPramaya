@@ -37,7 +37,7 @@ Project created by <a href="https://github.com/BadPramaya">BadPramaya</a> to mak
 
 ```- 📫 How to reach me ...```
 
-![My card name](https://cardivo.vercel.app/api?name=©️x_ᴘʀᴀᴍᴀʏᴀ_x✅_BAD_PRAMAYA&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatarfiles.alphacoders.com/108/thumb-108886.gif?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=x_pramaya_x&github=BadPramaya&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=_©️x_ᴘʀᴀᴍᴀʏᴀ_x✅_BAD_PRAMAYA_&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatarfiles.alphacoders.com/108/thumb-108886.gif?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=x_pramaya_x&github=BadPramaya&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <!---
 MR.PRAMAYA/BadPramaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
